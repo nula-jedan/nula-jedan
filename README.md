@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nula-jedan
 - 👀 I’m interested in Backend SEO
-- 🌱 I’m currently learning Python and Machine Learning in TensorFlow
+- 🌱 I’m currently learning Machine Learning in TensorFlow
 - 💞️ I’m looking to collaborate on everything Python lol
 - 📫 How to reach me? Via this account or Reddit and Discord
 
